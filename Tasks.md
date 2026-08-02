@@ -8,13 +8,7 @@ Link a relevant Project, People record or Organisation when it adds useful conte
 
 Keep this short. These are the tasks currently receiving attention.
 
-
-## Next
-
-Tasks that are ready but not currently in focus.
-
-- [ ] Example: Prepare the kickoff agenda with [[Alex Morgan]] for [[Acme Website Launch]] at [[Acme]]
-
+- [ ] Read the [[README]] and [[Principles of an Agent-Friendly Obsidian Vault]]
 
 ## Waiting
 
