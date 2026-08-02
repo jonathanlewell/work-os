@@ -78,3 +78,11 @@ projects:
 - [[Principles of an Agent-Friendly Obsidian Vault]] explains how to keep files understandable and safe for both people and agents.
 - [[Recommended Connections]] explains how to connect Slack, Google Calendar, Gmail, the Google Workspace CLI and Granola.
 - [[System/connections|Connection Registry]] records which services this vault can actually reach now.
+
+## Credit
+
+This is made by [[Jonathan Lewell]]. If you haven't already, follow me on socials to get more out of this vault with more AI tutorials:
+
+- [YouTube](https://www.youtube.com/@jonathanlewell)
+- [Instagram](https://www.instagram.com/jonathan.lewell/)
+- [TikTok](https://www.tiktok.com/@jonathanlewell)
