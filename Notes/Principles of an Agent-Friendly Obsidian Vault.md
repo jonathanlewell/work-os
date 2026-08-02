@@ -24,16 +24,16 @@ The contract rests on three principles:
 
 ## 1. One file, one primary subject
 
-A file should represent one identifiable Organisation, People, Project or Note subject. Do not combine several unrelated subjects into one long document merely because they arrived together.
+A file should represent one identifiable Organisation, People, Project, Meeting or Note subject. Do not combine several unrelated subjects into one long document merely because they arrived together.
 
-Meeting notes may contain several topics because they are evidence of one event. Move durable current state into the record that owns it.
+Meeting records may contain several topics because they are evidence of one event. Store them in `Meetings/` and move durable current state into the record that owns it.
 
 ## 2. Give every file a predictable identity
 
-Use the matching Template and a unique, descriptive filename. People records use `Templates/People.md`. The `type` property should come from the controlled starter set:
+Use the matching Template and a unique, descriptive filename. People records use `Templates/People.md`, and Meeting records use `Templates/Meeting.md`. The `type` property should come from the controlled starter set:
 
 ```yaml
-type: organisation | people | project | note
+type: organisation | people | project | meeting | note
 ```
 
 Use `YYYY-MM-DD` for dates. Use the same property name for the same meaning across every file.
@@ -54,7 +54,7 @@ Keep the summary or current context near the top. Put deep detail, evidence and 
 
 Files created from the same Template should use the same broad structure. Consistency helps people scan and helps agents update the correct section without rewriting unrelated content.
 
-Do not force every Note into an identical shape. Notes are the flexible evidence layer, while Organisations, People and Projects need more predictable current-state sections.
+Do not force every Note into an identical shape. Notes are the flexible evidence layer, while Organisations, People, Projects and Meetings need more predictable sections.
 
 ## 5. Separate current truth from history
 
@@ -80,7 +80,8 @@ Current state belongs near the top. Dated changes and source evidence belong bel
 | Organisation identity and context | Organisation file |
 | People identity, role and working context | People record in `People/` |
 | Project outcome, status and current position | Project file |
-| Meeting, research or decision evidence | Note file |
+| Meeting event, attendees, notes and decisions | Meeting record in `Meetings/` |
+| Research or decision evidence not tied to a Meeting | Note file |
 | Work to be done | `Tasks.md` |
 
 Other files should link to the owner rather than copying its current value. A completed task does not automatically prove that a Project outcome was achieved.

@@ -17,7 +17,7 @@ updated: "2026-08-02"
 
 ## Overview
 
-Acme is a fictional manufacturing business used to demonstrate how Organisations, People, Projects and Tasks connect.
+Acme is a fictional manufacturing business used to demonstrate how Organisations, People, Projects, Meetings and Tasks connect.
 
 ## Current context
 
@@ -27,6 +27,7 @@ Acme wants a clearer website that its sales team can use with prospective custom
 
 - [[Alex Morgan]] — Marketing Manager and day-to-day contact
 - [[Acme Website Launch]] — Active website project
+- [[2026-08-02 Acme Website Kickoff|Acme Website Kickoff]] — Example project kickoff Meeting
 
 ## Notes
 

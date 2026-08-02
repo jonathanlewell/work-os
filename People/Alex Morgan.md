@@ -6,7 +6,7 @@ organisations:
   - "[[Acme]]"
 projects:
   - "[[Acme Website Launch]]"
-updated: "2026-08-02"
+updated: 2026-08-02
 ---
 
 # Alex Morgan
@@ -17,6 +17,8 @@ updated: "2026-08-02"
 ## Context
 
 Alex Morgan is the Marketing Manager at [[Acme]] and the main contact for [[Acme Website Launch]].
+
+She knows [[Jonathan Lewell]]
 
 ## Role and responsibilities
 
@@ -29,3 +31,5 @@ Keep updates concise, surface decisions clearly and confirm agreed dates in writ
 ## Notes
 
 Tasks involving Alex belong once in [[Tasks]], linked back to this People record when useful.
+
+Alex attended [[2026-08-02 Acme Website Kickoff|Acme Website Kickoff]].

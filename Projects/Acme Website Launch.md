@@ -28,9 +28,9 @@ The project has been agreed. [[Alex Morgan]] is preparing the initial brief befo
 - The first release will focus on the company story, core services and contact journey.
 - Tasks remain in [[Tasks]] rather than being copied into this Project.
 
-## Related notes
+## Related Meetings and Notes
 
-No related Notes yet.
+- [[2026-08-02 Acme Website Kickoff|Acme Website Kickoff]] — Initial scope and working approach
 
 ## Updates
 

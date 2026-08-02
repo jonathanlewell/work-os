@@ -23,3 +23,5 @@ Valid tasks that do not need attention yet.
 ## Completed
 
 Completed tasks may remain here temporarily and can be cleared during an occasional tidy-up. Important outcomes and decisions belong in their related Project or Note.
+
+- [x] Follow up with [[Jackie Smith]] at [[Dell Computers]] — 2026-08-03

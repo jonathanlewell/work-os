@@ -15,14 +15,15 @@ Think of this as a starting template that you can refine and improve over time.
 | `Organisations/` | Companies, clients, suppliers, partners, departments or institutions                    |
 | `People/`        | People you work with and the context needed to work with them well                      |
 | `Projects/`      | Outcomes with a finish line                                                             |
-| `Notes/`         | Meetings, research, decisions, ideas, processes and other useful information            |
+| `Meetings/`      | Meeting records with attendees, notes, decisions and follow-up                          |
+| `Notes/`         | Research, decisions, ideas, processes and other useful information                      |
 | `System/`        | Small operational files that describe how the vault works or connects to other services |
 | `Templates/`     | One simple starting format for each record type                                         |
 |                  |                                                                                         |
 
 In an ideal world everything lives in one of these folders.
 
-* When you have a meeting, you put the meeting record in the Notes/ folder.
+* When you have a meeting, you put the meeting record in the Meetings/ folder.
 * If you have a general note about history or documentation at work, you put that in the Notes/ folder.
 * If you meet somebody, you put that information in the People/ folder
 *  if you want to write about a client or hospital or nursery, you put that note within the Organisations/ folder
@@ -31,7 +32,7 @@ In an ideal world everything lives in one of these folders.
 
 ## The Templates
 
-Within the Templates folder you'll see templates for the different .md files. Each record type has consistent front matter, and People records use the [[Templates/People]] template.
+Within the Templates folder you'll see templates for the different .md files. Each record type has consistent front matter. People records use [[Templates/People]], and Meeting records use [[Templates/Meeting]].
 
 The main thing with working with agents is that you want to keep it as consistent as possible because agents prefer structured data rather than unstructured free-flowing text. This is why it's good to template records so they are consistent.
 
@@ -43,11 +44,11 @@ When you wanna create a new record, you create a new note, apply the template, a
 
 To work with an AI, simply sit your Claude Code or Codex on top of the root vault folder. To take it further, you may also want to ask Claude/GPT to install [Obsidian skills](https://github.com/kepano/obsidian-skills) so that it can better read the relations between files and work with Obsidian in a native CLI way.
 
-A simple way of doing this with Claude/Codex is to just narrate and say, "Create a new meeting note for my meeting with my manager, John." It should then create the relevant note following the template and link it to the correct organisation / projects etc.
+A simple way of doing this with Claude/Codex is to just narrate and say, "Create a new Meeting record for my meeting with my manager, John." It should then use the Meeting template and link the record to the relevant Organisations, People and Projects.
 
 ## Example data
 
-I've included some example records for you to see generally how it works. Explore [[Acme]], [[Alex Morgan]], [[Acme Website Launch]] and their linked example task in [[Tasks]].
+I've included some example records for you to see generally how it works. Explore [[Acme]], [[Alex Morgan]], [[Acme Website Launch]], [[2026-08-02 Acme Website Kickoff|Acme Website Kickoff]] and their links to [[Tasks]].
 
 ## First use
 
@@ -57,8 +58,9 @@ I've included some example records for you to see generally how it works. Explor
 4. Create an Organisation using [[Templates/Organisation]].
 5. Create a record for someone using [[Templates/People]] and link the relevant Organisation.
 6. Create a Project using [[Templates/Project]] and link the relevant Organisations and People.
-7. Use [[Templates/Note]] for everything else, including meeting notes.
-8. If external services are connected, update [[System/connections|connections.md]] after a successful live test.
+7. Create a Meeting using [[Templates/Meeting]] and link the relevant Organisations, People and Projects.
+8. Use [[Templates/Note]] for research, decisions, ideas, processes and other useful context.
+9. If external services are connected, update [[System/connections|connections.md]] after a successful live test.
 
 ## How records connect
 

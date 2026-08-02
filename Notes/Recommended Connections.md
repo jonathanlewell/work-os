@@ -43,7 +43,7 @@ Useful capabilities include:
 
 - viewing events and accessible shared calendars;
 - finding availability;
-- preparing meeting Notes with exact dates and participants;
+- preparing Meeting records with exact dates and participants;
 - creating, updating or deleting events when explicitly approved.
 
 Start with calendar retrieval. Confirm before creating, rescheduling, responding to or cancelling an event. Always preserve the event's timezone.
@@ -95,7 +95,7 @@ Recommended workflow:
 
 1. Granola captures and organises the meeting notes.
 2. The agent retrieves the relevant note through Granola.
-3. The agent creates or updates an ordinary Note in this vault.
+3. The agent creates or updates a Meeting record in `Meetings/` using `Templates/Meeting.md`.
 4. Confirmed changes are reconciled into the relevant Project, People record or Organisation.
 5. Tasks are written once in `Tasks.md`.
 
