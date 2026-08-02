@@ -5,7 +5,8 @@ topics:
   - obsidian
   - markdown
 organisations: []
-people: []
+people:
+  - "[[Jonathan Lewell]]"
 projects: []
 created: 2026-08-02
 updated: 2026-08-02
