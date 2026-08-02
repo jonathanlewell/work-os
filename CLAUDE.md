@@ -4,7 +4,7 @@ This is a small, beginner-friendly Obsidian Work OS. Keep it simple. `CLAUDE.md`
 
 ## Where to go
 
-- Start with `Notes/Getting Started with This Vault.md` if you need the overall model.
+- Start with `README.md` if you need the overall model.
 - Use `Tasks.md` for every task.
 - Store work context in `Organisations/`, `People/`, `Projects/` and `Notes/`.
 - Use `Templates/Organisation.md`, `Templates/People.md`, `Templates/Project.md` or `Templates/Note.md` before creating the matching record.

@@ -1,15 +1,3 @@
----
-type: note
-topics:
-  - work-os
-  - onboarding
-organisations: []
-people: []
-projects: []
-created: 2026-08-02
-updated: 2026-08-02
----
-
 # Welcome
 
 Welcome to The Work OS.
