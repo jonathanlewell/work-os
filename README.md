@@ -51,13 +51,14 @@ I've included some example records for you to see generally how it works. Explor
 
 ## First use
 
-1. Enable Obsidian's core **Templates** plugin. This enables you to save certain Markdown files as templates (the ones we have in the templates/ folder)
-2. Add your tasks to [[Tasks]], using the `Now`, `Next`, `Waiting` and `Later` sections.
-3. Create an Organisation using [[Templates/Organisation]].
-4. Create a record for someone using [[Templates/People]] and link the relevant Organisation.
-5. Create a Project using [[Templates/Project]] and link the relevant Organisations and People.
-6. Use [[Templates/Note]] for everything else, including meeting notes.
-7. If external services are connected, update [[System/connections|connections.md]] after a successful live test.
+1. In Obsidian, open **Settings → Core plugins** and enable **Templates**.
+2. Open **Settings → Templates** and set **Template folder location** to `Templates`.
+3. Add your tasks to [[Tasks]], using the `Now`, `Next`, `Waiting` and `Later` sections.
+4. Create an Organisation using [[Templates/Organisation]].
+5. Create a record for someone using [[Templates/People]] and link the relevant Organisation.
+6. Create a Project using [[Templates/Project]] and link the relevant Organisations and People.
+7. Use [[Templates/Note]] for everything else, including meeting notes.
+8. If external services are connected, update [[System/connections|connections.md]] after a successful live test.
 
 ## How records connect
 
