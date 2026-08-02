@@ -8,7 +8,7 @@ Link a relevant Project, People record or Organisation when it adds useful conte
 
 Keep this short. These are the tasks currently receiving attention.
 
-- [ ] Read the [[README]] and [[Principles of an Agent-Friendly Obsidian Vault]]
+- [ ] Read the [[README]] and [[Principles of an Agent-Friendly Obsidian Vault]] and [[Recommended Connections]]
 
 ## Waiting
 
