@@ -1,18 +1,18 @@
 ---
 type: people
 status: active
-role:
+role: CFO
 organisations:
   - "[[Dell Computers]]"
 projects: []
 updated: "2026-08-02"
 ---
 
-# Jackie Smith
+# John Smith
 
 ## Context
 
-Jackie Smith works at [[Dell Computers]].
+John Smith is the CFO at [[Dell Computers]].
 
 ## Role and responsibilities
 
@@ -20,4 +20,4 @@ Jackie Smith works at [[Dell Computers]].
 
 ## Notes
 
-Jackie is attending [[2026-08-02 Dell Computers Product Team Alignment|Dell Computers Product Team Alignment]].
+John attended [[2026-08-02 Dell Computers Commercial Discussion|Dell Computers Commercial Discussion]].

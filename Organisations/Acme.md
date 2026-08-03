@@ -9,7 +9,7 @@ projects:
   - "[[Acme Website Launch]]"
 updated: "2026-08-02"
 ---
-
+[[Principles of an Agent-Friendly Obsidian Vault]]
 # Acme
 
 > [!example] Example record

@@ -1,5 +1,7 @@
 # Welcome
 
+[Watch the video tutorial](https://www.youtube.com/watch?v=EcAz6lklq8s&t)
+
 Welcome to The Work OS.
 
 It can sometimes be hard to get started with obsidian and creating an agent-friendly vault so I wanted to give you a vault that's easily set up and adopts the best practises of an agent-friendly vault ([[Principles of an Agent-Friendly Obsidian Vault]]).
